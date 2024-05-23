@@ -2,4 +2,4 @@ La base de datos **SEROKUATRO** fue creada siguiendo las consignas de la primera
 
 **SEROKUATRO** fue escrita en lenguaje SQL, desarrollada por completo en MySQLWorkbench, desde la creación hasta la inserción de datos. La función de cada tabla, vista, función y stored procedure será explicada en detalle en este documento.
 
-Para visualizar y realizar devoluciones sobre la base de datos, siga [este link](serokuatro.gitbook.io).
+Para visualizar y realizar devoluciones sobre la base de datos, siga [este link](https://serokuatro.gitbook.io/serokuatro-a-mysql-database).
